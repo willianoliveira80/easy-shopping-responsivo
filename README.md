@@ -8,6 +8,7 @@
 <img src="https://github.com/willianoliveira80/easy-shopping-responsivo/blob/master/assets/desktop.jpg?raw=true" />
 <br>
 <br>
-<img src="" />
+<h1>Mobile</h1>
+<img src="https://github.com/willianoliveira80/easy-shopping-responsivo/blob/master/assets/mobile.jpg?raw=true" />
 
 
